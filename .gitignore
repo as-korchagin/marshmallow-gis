@@ -1,0 +1,13 @@
+*.pyc
+*.sublime-workspace
+*.sublime-project
+/env*
+/scripts*
+.cache
+*.egg-info/
+.idea
+.vscode/
+TODO.lst
+.env
+venv/
+tmp*
